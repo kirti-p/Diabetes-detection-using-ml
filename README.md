@@ -1,0 +1,2 @@
+#   Diabetes-detection-using-ml
+This project uses machine learning to predict the likelihood of a person having diabetes by taking various attributes related to diabetes disease such as glucose levels, blood pressure, BMI, and age, among others.
